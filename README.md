@@ -1,7 +1,7 @@
 
 ### Hi, I'm Ayse Gül 👋
 
-- 🔭 I am FullStack Developer.
+- 🔭 I am Full Stack Developer.
 - 🌱 I’m currently learning  Go.
 - 💬 Ask me anything about IT.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ay%C5%9Fe-g%C3%BCl-yemi%C5%9Fci-944627143/) || aysegul.akmese.1@gmail.com
@@ -13,7 +13,7 @@
 ## Languages & Tools  🛠
 
 <p align="center"> 
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/php-logo-white.svg" alt="django" width="40" height="40"/> </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/php-logo.svg" alt="django" width="40" height="40"/> </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="django" width="40" height="40"/> </a>
     <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://bertugfahriozer.com/assets/images/gallery/codeigniter-nedir.png" alt="django" width="40" height="40"/> </a>
     <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png" alt="django" width="40" height="40"/> </a>
