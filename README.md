@@ -1,4 +1,4 @@
-Cansu Öztaş, [24.06.23 16:02]
+
 ### Hi, I'm Ayse Gül 👋
 
 - 🔭 I am FullStack Developer.
